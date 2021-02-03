@@ -1,2 +1,9 @@
 Solution :-
 
+n=int(input())
+arr=list(map(int,input().strip().split()))[:n]
+m=map(int,input().split())
+for i in range(0,n):
+    a= int(input())
+for i in range(0,n):
+    print(arr[i],sep='\n')
