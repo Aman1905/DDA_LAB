@@ -1,5 +1,6 @@
 Solution :-
 
+
 N,M=map(int, input().split())
 lst=list(map(int,input().strip().split()))[:N]
 res=-1
