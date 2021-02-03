@@ -1,5 +1,6 @@
 Solution :-
 
+
 n=int(input())
 arr=list(map(int,input().strip().split()))[:n]
 m=map(int,input().split())
