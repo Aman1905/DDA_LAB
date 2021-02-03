@@ -1,2 +1,12 @@
 Solution :-
 
+N,M=map(int, input().split())
+lst=list(map(int,input().strip().split()))[:N]
+res=-1
+for i in range(0, N): 
+    if M==lst[i]:
+        res=i+1
+if res!=-1:
+    print(res)
+else:
+    print(res)
