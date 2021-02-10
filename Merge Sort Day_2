@@ -1,5 +1,6 @@
 Solution :-
 
+
 #include <stdio.h>
 void merge(int arr[], int p, int q, int r) {
   int n1 = q - p + 1;
