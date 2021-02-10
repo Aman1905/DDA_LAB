@@ -1,9 +1,4 @@
 Solution :-
 
 
-import java.io.*;
-import java.util.*;
-
-public class Solution {
-
- 
+import java.io
