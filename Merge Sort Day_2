@@ -29,7 +29,6 @@ void merge(int arr[], int p, int q, int r) {
     i++;
     k++;
   }
-
   while (j < n2) {
     arr[k] = M[j];
     j++;
