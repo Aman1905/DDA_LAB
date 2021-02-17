@@ -1,5 +1,6 @@
 Solution :-
 
+
 def minDiff(arr,n,k): 
     result = +2147483647
    
