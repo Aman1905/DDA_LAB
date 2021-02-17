@@ -5,7 +5,7 @@ def minDiff(arr,n,k):
    
     # Sorting the array. 
     arr.sort() 
-   
+    
     # Find minimum value among 
     # all K size subarray. 
     for i in range(n-k+1): 
