@@ -1,6 +1,5 @@
 Solution :-
 
-
 def divide11(a,n):
     k=int(n/2)
     a11=[ [[0] for i in range(0,k)] for j in range(0,k)]
